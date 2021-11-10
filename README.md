@@ -69,3 +69,24 @@ VA          |Veterans Affairs
 
  * [Nguyen et al., 2018] Nguyen, Xuan-Mai T., et al. "Baseline characterization and annual trends of body mass index for a mega-biobank cohort of US Veterans 2011–2017." Journal of health research and reviews in developing countries 5.2 (2018): 98.
 
+
+# Present the following
+
+From Weronica
+
+ * What data is available
+   * Research profile (metabolics, genetics, cancer, cardiovascular etc)
+     * Registry, follow up, longitudinal, prospective?
+   * Raw data?
+   * Summary statistics?
+   * Health variables?
+   * Genetics?
+     * What kind?
+   * diseases?
+ * Number of participants
+ * How to apply, who can get access?
+ * Could it be of relevance to our research group?
+   * New projects, replicating old findings, meta-analysis etc
+ * Costs
+ * (Specific details, ethics, rules, responsibilities to report results, involvement in research, etc)
+
